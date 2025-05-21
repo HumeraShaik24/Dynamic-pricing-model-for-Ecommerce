@@ -73,19 +73,6 @@ The solution demonstrates how dynamic pricing can improve decision-making by red
 ---
 
 
-
----
-
-## 💡 Future Improvements
-
-- Apply more advanced models like XGBoost or Random Forest
-- Integrate real-time competitor price APIs
-- Include additional features like ad spend, time of day, or coupon activity
-
----
-
-## 👩‍💻 Author
-
 **Humera Shaik**  
 
 
