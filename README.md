@@ -23,7 +23,6 @@ The solution demonstrates how dynamic pricing can improve decision-making by red
 
 **Source:** [Kaggle - Retail Price Optimization Dataset](https://www.kaggle.com/datasets/suddharshan/retail-price-optimization)
 
-**Rows:** 676  
 **Features:** 30 columns including:
 - `qty`, `volume`, `customers` – demand indicators  
 - `comp_1`, `comp_2`, `comp_3` – competitor prices  
